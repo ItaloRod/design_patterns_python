@@ -8,7 +8,10 @@ Os projetos Adicionados são:
 * Criacionais
   * Factory Method
 * Estruturais
+  * Adapter
+  * Decorator
 * Comportamento
+
 
 
 ---
