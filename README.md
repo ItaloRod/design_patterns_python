@@ -14,3 +14,6 @@ Os projetos Adicionados são:
 ---
 
 ### Observações
+
+
+* Textos e implementações tiradas de: https://refactoring.guru/pt-br
