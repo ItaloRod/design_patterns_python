@@ -11,7 +11,6 @@ Os projetos Adicionados são:
   * Adapter
   * Decorator
 * Comportamento
-  * Strategy
 
 
 
