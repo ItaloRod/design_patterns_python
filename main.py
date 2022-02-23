@@ -4,6 +4,9 @@
 # from estructural.Adapter.main import start
 # from estructural.Decorator.main import start
 # from behavioral.strategy.main import start
-from estructural.Bridge.main import start
+# from estructural.Bridge.main import start
+# from creational.Prototype.main import start
+# from creational.singleton.main import start
+from estructural.Facade.main import start
 
 start()
