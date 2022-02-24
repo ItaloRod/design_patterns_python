@@ -7,6 +7,7 @@
 # from estructural.Bridge.main import start
 # from creational.Prototype.main import start
 # from creational.singleton.main import start
-from estructural.Facade.main import start
+# from estructural.Facade.main import start
+from behavioral.observer.main import start
 
 start()
